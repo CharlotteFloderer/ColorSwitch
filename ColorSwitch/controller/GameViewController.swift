@@ -6,6 +6,8 @@
 //  Copyright © 2018 Charlotte Floderer. All rights reserved.
 //
 
+// ici on mais en place la scene
+
 import UIKit
 import SpriteKit
 import GameplayKit
